@@ -1,0 +1,105 @@
+# 第一順位：識字
+～足　ー　そく
+世帯　ー　せたい
+繊維　ー　せんい
+相違　ー　そうい
+妥当　ー　だとう
+前後　ー　ぜんご
+大層　ー　たいそう
+全般　ー　ぜんぱん
+窃盗　ー　せっとう
+送金　ー　そうきん
+専制　ー　せんせい
+遭難　ー　そうなん
+送別　ー　そうべつ
+算盤　ー　そろばん
+待遇　ー　たいぐう
+達人　ー　たつじん
+炭鉱　ー　たんこう
+暖冬　ー　だんとう
+短編　ー　たんぺん
+装飾　ー　そうしょく
+～沿い　ー　ぞい
+＊大豆　ー　だいず
+＊草履　ー　ぞうり
+＊保つ　ー　たもつ
+＊台詞　ー　せりふ
+＊穀物　ー　こくもつ
+＊耕す　ー　たがやす
+＊漂う　ー　ただよう
+＊重複　ー　じゅうふく
+絶える　ー　たえる
+溜め息　ー　ためいき
+旅立つ　ー　たびだつ
+瀬戸物　ー　せともの
+直ちに　ー　ただちに
+蓄える　ー　たくわえる
+託児所　ー　たくじしょ
+全日制　ー　ぜんにちせい
+＊逞しい　ー　たくましい
+＊＊多忙　ー　たぼう
+多種多様　ー　たしゅたよう
+＊騒々しい　ー　そうぞうしい
+立て替える　ー　たてかえる
+＊立ち止まる　ー　たちどまる
+
+# 第二順位：組合動詞
+(立ち1/5) 立ち＋上げる　ー　新しいプロジェクトを立ち上げる。 (see further)　ー　= launch(v.)
+(立ち2/5) 立ち＋入り
+(立ち3/5) 立ち＋去る　ー　直ちに立ち去ってください！ (see further)　ー　= leave(v.)
+(立ち4/5) 立ち＋止まる　ー　立ち止まってください。 (see further)　ー　= stop(v.)
+(立ち5/5) 立ち＋直る　ー　景気が立ち直った。 (see further)　ー　= recover(v.)
+立て＋替える　ー　彼に交通費を立て替えた。 (see further)　ー　= pay for (usually others)
+
+# 第三順位：No Memories
+速力 (see further)　ー　= speed(n.)
+題名 (see further)　ー　= title(n.)
+たんす (see further)　ー　'Chest of drawers'
+瀬戸物 (see further)　ー　= Seto ware(n.)
+＊出し入れ (see further)　ー　'withdrawal and deposit'
+送金　ー　両親に送金する。 (see further)　ー　'send money'
+先着　ー　我がチームが先着する。 (see further)　ー　'arrive first'
+送料　ー　送料が高すぎた。 (see further)　ー　'shipping cost'
+退会　ー　クラブを退会した。 (see further)　ー　= leave(v.) (club)
+選考　ー　応募者は書類選考の後、面接を受けます。 (see further)　ー　'document screening'
+相違　ー　「Aに相違ない」／「Aとの相違」／大きな相違がある。 (see further)　ー　= difference(n.)
+＊大層　ー　大層びっくりした。 (see further)　ー　= very(ad.)
+＊世帯　ー　この地区には300世帯が暮らしている。 (see further)　ー　= household(n.)
+宝くじ　ー　宝くじに当たる。 (see further)　ー　= lottery(n.)
+田植え　ー　田植えをする。／「田植え機」 (see further)　ー　'plant rice' / 'rice planting'
+全寮制　ー　「全寮制の高校」 (see further)　ー　'boarding school'
+逞しい　ー　「逞しい戦力」／筋骨が逞しい。 (see further)　ー　= strong(a.)
+旅立つ　ー　彼は新しい人生を求めて旅立った。 (see further)　ー　= set out(phrv.) / depart(v.)
+立ち直る　ー　景気が立ち直った。 (see further)　ー　= recover(v.)
+＊段ボール　ー　本を段ボールに詰めて引っ越しの準備をした。 (see further)　ー　= cardboard boxes(n.)
+立ち上げる　ー　新しいプロジェクトを立ち上げる。 (see further)　ー　= launch(v.)
+立ち止まる　ー　立ち止まってください。 (see further)　ー　= stop(v.)
+立て替える　ー　彼に交通費を立て替えた。 (see further)　ー　= pay for (usually others)
+だらしない　ー　「だらしない奴」 (see further)　ー　= 情けない
+＊＊そうっと　ー　そうっと歩く。 (see further)　ー　= softly(ad.)
+＊＊せっせと　ー　せっせと働く。 (see further)　ー　= くるくる／こつこつ
+＊＊＊たちまち　ー　「たちまち起こる銃声」 (see further)　ー　= sudden(a.)
+＊そそっかしい　ー　「そそっかしい人」 (see further)　ー　= careless(a.)
+
+# 第四順位：Some Memories
+誰しも　ー　誰しも自分の命が大事する。
+だれかれ
+
+# 第五順位: 外來語
+タイヤ (see further)　ー　= tire(n.)
+タイピスト (see further)　ー　= typist(n.)
+タイプライター (see further)　ー　= typewriter(n.)
+ゼミ／セミナー／ゼミナール (see further)　ー　= seminar(n.)
+ダイヤ　ー　地震の影響でダイヤが乱(みだ)れている。 (see further)　ー　'train schedule'
+ダイヤル　ー　ダイヤルを回す。 (see further)　ー　Turn the dial.
+
+# 第六順位：words with sequential voicing (Rendaku) phenomena
+短編
+縦書き
+旅立つ
+＊立ち止まる
+
+# 第七順位（末位）：prefixal/suffixal words
+～沿い　ー　「川沿い」／「山沿い」
+～たて　ー　「焼き立てパン」 (see further)　ー　'freshly baked bread'
+＊～立てる　ー　「責め立てる」／「わめきたてる」 (see further)　ー　= keep ~(v.)

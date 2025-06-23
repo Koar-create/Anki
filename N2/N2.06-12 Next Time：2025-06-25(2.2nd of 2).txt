@@ -1,0 +1,108 @@
+# 第一順位：識字
+巣　ー　す
+皺　ー　しわ
+芯　ー　しん
+棚　ー　たな
+刷る　ー　する
+～隻　ー　せき
+～錠　ー　じょう
+仕様　ー　しよう
+助詞　ー　じょし
+初歩　ー　しょほ
+針路　ー　しんろ
+除夜　ー　じょや
+白髪　ー　しらが
+図形　ー　ずけい
+勧め　ー　すすめ
+寸法　ー　すんぽう
+飼料　ー　しりょう
+上下　ー　じょうげ
+素人　ー　しろうと
+正味　ー　しょうみ
+所帯　ー　しょたい
+進行　ー　しんこう
+一隻　ー　いっせき
+心身　ー　しんしん
+震災　ー　しんさい
+人種　ー　じんしゅ
+審判　ー　しんぱん
+垂直　ー　すいちょく
+進出　ー　しんしゅつ
+初旬　ー　しょじゅん
+食塩　ー　しょくえん
+上映　ー　じょうえい
+消息　ー　しょうそく
+上品　ー　じょうひん
+上京　ー　じょうきょう
+＊～状　ー　じょう
+＊涼む　ー　すずむ
+＊書物　ー　しょもつ
+＊書籍　ー　しょせき
+＊将棋　ー　しょうぎ
+＊随筆　ー　ずいひつ
+＊錠剤　ー　じょうざい
+＊消耗　ー　しょうもう
+＊奨励　ー　しょうれい
+人件費　ー　じんけんひ
+生じる　ー　しょうじる
+称する　ー　しょうする
+心配事　ー　しんぱいごと
+＊＊定規　ー　じょうぎ
+＊小児科　ー　しょうにか
+＊＊空かす　ー　すかす
+図々しい
+新郎新婦　ー　しんろうしんぷ
+澄む／清む　ー　すむ
+据え付ける　ー　すえつける
+
+# 第二順位：組合動詞
+住み＋着く　ー　親戚の家に住み着いている。 (see further)　ー　= live in(phrv.)
+据え＋付ける　ー　新型機械を据え付ける。 (see further)　ー　= install(v.)
+
+# 第三順位：No Memories
+仕様 (see further)　ー　= method(n.)
+錠剤 (see further)　ー　= tablet(n.)
+寸法　ー　この棚は部屋の寸法にぴったりだ。 (see further)　ー　= size(n.)
+しわ　ー　シャツにしわがついているよ。 (see further)　ー　= wrinkle(n.)
+針路　ー　船は北東の針路を取った。 (see further)　ー　= course(n.)
+勧め　ー　「学問の勧め」 (see further)　ー　= advice(n.)
+定規　ー　定規を使って線を引いてください。 (see further)　ー　= ruler(n.)
+常勤　ー　「常勤の医師」 (see further)　ー　= full-time(a.)
+清書　ー　作文を清書して提出してください。 (see further)　ー　= make a clean copy of ...
+水素　ー　「水素イオン」 (see further)　ー　= hydrogen(n.)
+進出　ー　純決戦に進出する。 (see further)　ー　Advance to the finals.
+＊所帯　ー　彼は若くして所帯を持った。 (see further)　ー　He started a family at a young age.
+＊涼む　ー　夕方外に出て涼む。 (see further)　ー　= cool off(phrv.)
+＊正味　ー　この缶詰は正味200グラムです。／正味八時間働いた。 (see further)　ー　= net. net-weight; worked 8 hours net.
+すっと　ー　すっと消えた。 (see further)　ー　= in an instant
+障害者　ー　「知的障害者」 (see further)　ー　= people with disability
+人件費　ー　人件費が増えた。 (see further)　ー　= Labor costs
+住み着く　ー　親戚の家に住み着いている。 (see further)　ー　= live in(phrv.)
+胸糞悪い　ー　あの発言、本当に胸糞悪いわ。 (see further)　ー　= disgusting(a.)
+＊据え付ける　ー　新型機械を据え付ける。 (see further)　ー　= install(v.)
+ずらす／ずれる　ー　家具をずらす。／積み荷がずれる。 (see further)　ー　= shift(v.)
+(＊くっつく／くっつける2/2)　ー　仲間にくっつける。 (see further)　ー　= recruit(v.)
+
+# 第四順位：Some Memories
+上品　ー　「上品な味」
+省エネ　ー　「省エネ技術」
+称する　ー　「太郎と称する男」
+すらすら　ー　すらすらと答える。
+
+# 第五順位: 外來語
+～スタンド
+ステッキ　ー　ステッキをつく。 (see further)　ー　= (walking) stick(n.)
+ステンレス (see further)　ー　= stainless steel
+スパゲッティ (see further)　ー　= spaghetti(n.)
+スチュワーデス (see further)　ー　= stewardess(n.)
+シルバーシート (see further)　ー　= priority seating
+
+# 第六順位：words with sequential voicing (Rendaku) phenomena
+審判
+新婦
+寸法
+心配事
+
+# 第七順位（末位）：prefixal/suffixal words
+～錠　ー　この薬は一日三錠飲んでください。 (see further)　ー　= tablet(n.)
+～スタンド　ー　「インクスタンド」／「ガソリンスタンド」 (see further)　ー　= table(n.)/station(n.)

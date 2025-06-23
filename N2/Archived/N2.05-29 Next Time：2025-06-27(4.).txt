@@ -1,0 +1,56 @@
+# 第一順位：識字
+供給　ー　きょう・きゅう
+漁業　ー　ぎょぎょう
+居住　ー　きょじゅう
+漁船　ー　ぎょせん
+悔いる　ー　くいる
+潜る　ー　くぐる
+口数　ー　くちかず
+嘴　ー　くちばし
+口調　ー　くちょう
+句読点　ー　くとうてん
+位　ー　くらい
+玄人　ー　くろうと
+咥える　ー　くわえる
+加わる　ー　くわわる
+
+# 第二順位：組合動詞
+
+# 第三順位：No Memories
+潜る　ー　法の網を潜る。 (see further)　ー　= escape(v.)
+＊玄人　ー　「玄人も顔負けするほどの腕前」 (see further)　ー　= expertiser(n.)
+悔いる　ー　前非を悔いる。
+区切る　ー　前期、中期と後期に区切る。
+位する　ー　中国の沿海部に位する。
+車椅子　ー　「車椅子の人」 (see further)　ー　= disability(n.)
+くしゃみ　ー　くしゃみをする。 (see further)　ー　= sneezing(n.)
+＊咥える　ー　煙草を咥えてる。 (see further)　ー　= hold(v.) ... in the mouth
+切れ(1/2)　ー　「切れのいい包丁」
+切れ(2/2)　ー　「紙切れ」 (see further)　ー　= little piece
+(口数1/2)　ー　口数が少ない。 (see further)　ー　= word
+(口数2/2)　ー　「家族の口数」 (see further)　ー　= head count
+＊ぐずつく　ー　何をしてもぐずつく。 (see further)　ー　= act slowly (v.)
+＊くたくた　ー　一日歩き続けてもうくたくただ。 (see further)　ー　= excausted(a.)
+＊くつろぐ　ー　「くつろいだ雰囲気」 (see further)　ー　= confortable(a.)
+＊くよくよ　ー　つまらないことにくよくよする。
+＊くるくる　ー　くるくると働く。 (see further)　ー　= hard(ad.)
+(＊ぐうぐう1/2)　ー　ぐうぐう眠る。 (see further)　ー　= soundly(ad.)
+＊くじ／くじ引き　ー　くじを引く。／くじ引きで順番を決める。 (see further)　ー　= ガチャ(n.)
+(＊くたびれる1/2)　ー　歩き回ってくたびれた。 (see further)　ー　= get excausted
+(＊くたびれる2/2)　ー　「くたびれた背広」 (see further)　ー　= worn-out(a.)
+(くっつく／くっつける1/2)　ー　ガムが服にくっつく。／胸に名札をくっつける。 (see further)　ー　= stick(v.)/firm(v.)
+(くっつく／くっつける2/2)　ー　仲間にくっつける。 (see further)　ー　= recruit(v.)
+
+# 第四順位：Some Memories
+位　ー　「百の位」／「王の位」
+(ぐうぐう2/2)　ー　おなかがぐうぐう鳴る。
+
+# 第五順位: 外來語
+クラクション　ー　クラクションを鳴らす。 (see further)　ー　= horn(n.)
+
+# 第六順位：words with sequential voicing (Rendaku) phenomena
+前非
+区切る
+
+# 第七順位（末位）：prefixal/suffixal words
+～切れ　ー　時間切れだ。

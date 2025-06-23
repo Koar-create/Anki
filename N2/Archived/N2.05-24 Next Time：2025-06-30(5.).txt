@@ -1,0 +1,27 @@
+# 第一順位：識字
+斧　ー　おの
+劣る　ー　おとる
+訪れ　ー　おとずれ
+脅かす　ー　おどかす
+溺れる　ー　おぼれる
+
+# 第二順位：組合動詞
+
+# 第三順位：No Memory
+劣る　ー　体力は誰にも劣らない。
+お使い　ー　あの方はお使いです。／お使いに行く。 (see further)　ー　= envoy(n.)
+(おまけ1/2)　ー　ちょっとおまけしてあげよう。 (see further)　ー　= discount(n.)
+(脅かす2/2)　ー　突然大声を出して脅かされた。
+(おのおの1/2)　ー　おのおのの義務。 (see further)　ー　漢字：各々
+(おのおの2/2)　ー　おのおの意見を述べる。 (see further)　ー　漢字：各々
+(＊おまけ2/2)　ー　おまけがつく。 (see further)　ー　= bonus(n.)
+
+# 第四順位：Some Memories
+訪れ　ー　「春の訪れ」／先生のお宅を訪れる。
+
+# 第五順位: 外來語
+
+# 第六順位：words with sequential voicing (Rendaku) phenomena
+
+# 第七順位（末位）：prefixal/suffixal words
+～落とす　ー　「聞き落とす」／「切り落とす」 (see further)　ー　= miss(v.); fall(v.)

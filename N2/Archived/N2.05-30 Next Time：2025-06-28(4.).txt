@@ -1,0 +1,45 @@
+# 第一順位：識字
+薪　ー　まき
+競馬　ー　けいば
+毛皮　ー　けがわ
+煙る　ー　けむる
+限度　ー　げんど
+口座　ー　こうざ
+耕地　ー　こうち
+合否　ー　ごうひ
+交付　ー　こうふ
+掲載　ー　けいさい
+継続　ー　けいぞく
+欠陥　ー　けっかん
+口実　ー　こうじつ
+栽培　ー　さいばい
+好物　ー　こうぶつ
+紅葉　ー　こうよう
+構内　ー　こうない
+厳重　ー　げんじゅう
+好況　ー　こうきょう
+向上　ー　こうじょう
+好調　ー　こうちょう
+
+# 第二順位：組合動詞
+
+# 第三順位：No Memories
+敬具　ー　それでは、またご連絡いたします。敬具。 (see further)　ー　= 'Sincerely yours'
+掲載　ー　今朝の新聞に掲載された。
+小売　ー　「小売価格」 (see further)　ー　= retail(a./n.)
+煙る　ー　山が朝霧に煙っている。 (see further)　ー　= surround(v.)
+構内　ー　「駅構内」 (see further)　ー　'the place inside the premises'
+構外　ー　この切符では駅構外に出ることはできません。 (see further)　ー　'the place outside the premises'
+好況　ー　国内経済は好況が続いている。 (see further)　ー　= burgeoning(a.)
+口座　ー　新しい口座を開く。 (see further)　ー　= account(n.) (usually bank's)
+合否　ー　「合否の発表」／合否を判定する。
+＊けなす　ー　ずっとあの新作をけなしている。 (see further)　ー　= criticize(v.)
+
+# 第四順位：Some Memories
+見当　ー　見当がつかない。 (see further)　ー　= clue(n.)
+
+# 第五順位: 外來語
+
+# 第六順位：words with sequential voicing (Rendaku) phenomena
+
+# 第七順位（末位）：prefixal/suffixal words
