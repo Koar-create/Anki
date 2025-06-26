@@ -24,6 +24,6 @@
 9. preoccupation|  (文)	|= focus/concern, Her ~ with perfection, The economy was a major ~.
 10. franchise	|  (文)	|= right. fought for the ~ of Afr.
 
-11. lodge	|  (文)	|1. (v.) = live, (n.) = house
+11. lodge	|v.(文)	|1. (v.) = live, (n.) = house
 		|v.(文)	|2. 少用，= get stuck    , A bullet ~ in his shoulder.
 		|v.(文)	|3. = file(v.)/submit(v.), ~ a complaint, ~ an asylum

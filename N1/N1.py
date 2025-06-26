@@ -26,7 +26,7 @@ if __name__ == '__main__':
     When file is csv:
     ############################### '''
     if ftype == 'csv':
-        df = pd.read_csv(fpath, names=['A', 'B', 'C'])
+        df = pd.read_csv(fpath, names=['A', 'B', 'C'], index_col=False)
         df = df[~pd.isna(df['A'])].reset_index(drop=True)
         indexList = df[df['A'].str.startswith('#')].index
         sectionList = df[df['A'].str.startswith('#')]['A'].values.tolist()
