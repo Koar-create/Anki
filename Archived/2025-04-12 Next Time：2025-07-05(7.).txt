@@ -11,6 +11,6 @@
 6. superb	|  (文)	|= awesome
 7. thrust	|v.(文)	|少用，= push
 8. bestow	|v.(文)	|= give/grant/award，~ honorary degree on him
-9. adventitious	|生·医	|=unusual/unexpected, ~ roots/shoots, ~ sounds
-10. casualty	|  (文)	|= loss/victim
-11. infuriate	|v.(文)	|= annoy/irritate
+9. casualty	|  (文)	|= loss/victim
+10. infuriate	|v.(文)	|= annoy/irritate
+11. adventitious|生·医	|=unusual/unexpected, ~ roots/shoots, ~ sounds
