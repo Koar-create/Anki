@@ -1,2 +1,6 @@
 .tmp.driveupload/
+
 N1/*.pdf
+
+*.ipynb
+.ipynb_checkpoints/
