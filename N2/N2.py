@@ -98,6 +98,13 @@ if __name__ == '__main__':
     When file is csv:
     ############################### '''
     if ftype == 'csv':
+        fname = os.path.basename(fpath)
+        flag_archive = fpath.split( os.sep )[-2] == 'Archived'
+        round = int( fname.split( '(' )[1].split( '.' )[0] )
+        if not flag_archive:
+            sub_round = int( fname.split( '(' )[1].split( '.' )[1][0] )
+        else:
+            sub_round = 2
         df = pd.read_csv(fpath, names=['A', 'B', 'C'])
         df = df[~pd.isna(df['A'])].reset_index(drop=True)
         indexList = df[df['A'].str.startswith('#')].index
@@ -111,7 +118,7 @@ if __name__ == '__main__':
                 df.loc[idx+1:indexList[i+1]-1, 'D'] = df.loc[idx, 'A']
         for section in sectionList:
             print(purple, section, reset)
-            if section == '# 第二順位：組合動詞':
+            if (section == '# 第二順位：組合動詞') or (round > 1 and sub_round > 1):
                 prompt = "Show next term? (y or [n]): "
                 o_next_default = 'n'
             else:
@@ -126,11 +133,14 @@ if __name__ == '__main__':
                 for _ in range(2):
                     if np.nan in list_tmp: list_tmp.remove(np.nan)
                 
-                for element in list_tmp:
+                for k, element in enumerate(list_tmp):
                     # ........
                     if element == list_tmp[0]:
                         print(f"{yellow}({i+1}/{len_df}){reset} {element}", end='')
                         continue
+                    if len(list_tmp) > 1:
+                        if k > 1 and o_next_default == 'n':
+                            continue
                     # ........
                     o_next = input(f"{green_b}{prompt}{reset}")
                     o_next = o_next_default if len(o_next) == 0 else o_next
@@ -139,5 +149,6 @@ if __name__ == '__main__':
                         print(element, end='')
                     else:
                         continue
-                input('')
+                print()  # input('')
         print( green_b, 'Review Done.', reset )
+    
